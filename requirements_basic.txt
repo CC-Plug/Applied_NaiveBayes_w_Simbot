@@ -1,0 +1,5 @@
+docutils
+pygments
+pypiwin32
+kivy
+pandas
